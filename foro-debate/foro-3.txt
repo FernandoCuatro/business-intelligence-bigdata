@@ -1,0 +1,6 @@
+Descripción: En este foro, se discutirá el papel crítico que desempeña la ética en el manejo y análisis de grandes volúmenes de datos en el contexto de Business Intelligence y Big Data. Los participantes pueden
+abordar temas como la privacidad de los datos, la transparencia en el uso de algoritmos, el sesgo algorítmico y las implicaciones éticas de la toma de decisiones automatizada.
+
+1. ¿Cuáles son las principales preocupaciones éticas relacionadas con el uso de Big Data en BI?
+2. ¿Deberían existir regulaciones más estrictas para garantizar la privacidad y la transparencia en el análisis de datos?
+3. ¿Cómo pueden las organizaciones equilibrar la búsqueda de conocimientos y el respeto por la privacidad y la ética?
