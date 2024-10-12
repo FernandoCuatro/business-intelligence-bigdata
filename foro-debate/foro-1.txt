@@ -14,3 +14,15 @@ predictivos en la toma de decisiones empresariales?
 aprovechado la analítica predictiva para impulsar su crecimiento
 y rentabilidad?
 
+¿Cómo está evolucionando la analítica predictiva en el contexto del BI y Big Data?
+La analítica predictiva ha evolucionado gracias a avances en machine learning (datos ordenados) y algoritmos mucho mas eficientes. Las herramientas de BI han integrado la capacidades de análisis que permiten a las empresas no solo visualizar datos históricos, sino también hacer proyecciones sobre futuros comportamientos con los datos. La integración de Big Data también ha sido importante, tambiénpermite analizar grandes volúmenes de datos de diversas sources, lo que aumenta las predicciones y aumenta su precisión.
+
+¿Cuáles son los beneficios y desafíos de adoptar enfoques predictivos en la toma de decisiones empresariales?
+Beneficios: 
+Las empresas pueden anticipar tendencias y revisar las estrategias antes de que los cambios ocurran. Las organizaciones que utilizan analítica predictiva pueden adelantarse a la competencia al identificar oportunidades.
+
+Desafíos:
+La predicciones dependen de la calidad de los datos. Los datos inexactos pueden llevar a decisiones incorrectas.
+
+¿Cuáles son algunos ejemplos de éxito de empresas que han aprovechado la analítica predictiva para impulsar su crecimiento y rentabilidad?
+¿Todos lo usamos? Netflix, Analiza tus patrones de visualización para personalizar tus recomendaciones de contenido y optimizar la producción de series y películas.
