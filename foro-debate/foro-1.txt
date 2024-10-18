@@ -4,7 +4,8 @@ participantes pueden explorar cómo la capacidad de prever tendencias
 y comportamientos futuros está transformando las operaciones
 empresariales y cómo las organizaciones pueden aprovechar al máximo
 estas capacidades para obtener una ventaja competitiva.
- 
+
+RESPUESTA
 Preguntas sugeridas:
 ¿Cómo está evolucionando la analítica predictiva en el contexto
 del BI y Big Data?
